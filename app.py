@@ -309,7 +309,7 @@ with st.sidebar:
     st.markdown("- 이번 주에 할 ‘작은 행동’ 1개 정하기 ✅")
     st.markdown("---")
     st.markdown("### 🎨 꾸미기 팁")
-    st.markdown("이 앱은 CSS로 화려하게 꾸몄어요 ✨  
+    st.markdown("이 앱은 CSS로 화려하게 꾸몄어요 ✨")
 더 화려하게 하려면:  
 - 배경 그라데이션 추가 🌈  
 - 카드 애니메이션 넣기 💫  
